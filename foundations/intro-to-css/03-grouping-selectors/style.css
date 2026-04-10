@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.unit1,
+.unit2 {
+
+    font-size: 28px;
+    font-family: helvetica, Times New Roman, sans-serif
+
+}
+.unit1 {
+background-color: black;
+color: white;
+
+}
+
+.unit2 {
+
+background-color: yellow;
+
+}

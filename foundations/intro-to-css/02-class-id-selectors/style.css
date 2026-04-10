@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.odd {
+
+background-color: lightpink;  
+font-family: Verdana, Dejavu Sans, sans-serif
+}
+
+.member{
+
+font-size: 24px;
+}
+
+#dos {
+
+    color: blue;
+    font-size: 36px;
+}
+
+#quatro {
+
+    background-color: lightgreen; 
+    font-size: 24px;
+    font-weight: bold;
+
+}
